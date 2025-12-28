@@ -1,3 +1,4 @@
+# Bio-signal-Processing
 ECG & Bio-signal Processing — repository overview
 
 This repository contains MATLAB code and live scripts used for ECG and bio-signal processing exercises (filter design, ensemble averaging, Wiener/adaptive filtering, and wavelet time–frequency analysis).
@@ -38,4 +39,3 @@ Repository notes
 - Filenames and folder names have been updated to be descriptive and consistent.
 
 If you need commits, a release zip, or `.mlx`→`.m` conversions, I can prepare those on request.
-# Bio-signal-Processing-
